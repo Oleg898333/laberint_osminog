@@ -1,1 +1,1 @@
-# laberint_osminog
+# Игра лаберинт
